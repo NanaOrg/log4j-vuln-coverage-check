@@ -16,3 +16,4 @@ jobs:
             with:
                 oss: true
                 autofix: 'conservative+vulns,safe+all'
+                cli_args: '--debug'
